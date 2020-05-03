@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.jarvis.pulllayout.PullableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pullLayout"
+    android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <include layout="@layout/header_classic"/>
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <include layout="@layout/footer_classic"/>
+</com.jarvis.pulllayout.PullableLayout>

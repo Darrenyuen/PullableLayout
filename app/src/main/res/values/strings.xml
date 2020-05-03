@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PullLayout</string>
+    <!--  pull layout  -->
+    <string name="pull_down">下拉刷新</string>
+    <string name="can_refresh">松手进行刷新</string>
+    <string name="pull_up">上拉加载</string>
+    <string name="can_load">松手进行加载</string>
+    <string name="refreshing">正在刷新</string>
+    <string name="loading">正在加载</string>
+</resources>
